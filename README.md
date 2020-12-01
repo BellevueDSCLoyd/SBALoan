@@ -11,8 +11,10 @@ For convenience this has been converted to html and pdf file format.
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
 
 [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb).
+
 [Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb).
 
 [Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb).
+
 [Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat_Tuning.ipynb).
 
