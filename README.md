@@ -8,7 +8,8 @@ For convenience this has been converted to html and pdf file format.
 
 [R-Code in HTML format](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
-The primary model work was performed in Python as FinalProject.ipynb.  
+The primary model work was performed in Python as FinalProject.ipynb.
+[FinalProject.ipynb](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
 
     Model selection for the regression model was performed in [Pycaret_Reg.ipynb](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb).
     Model selection for the classification model wasa performed in Pycaret_Cat.ipynb.
