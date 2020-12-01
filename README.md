@@ -6,6 +6,8 @@ A technical report was included as FinalReport.docx.
 SBA Loan analysis was performed in R as 630Project.R. 
 For convenience this has been converted to html and pdf file format.
 
+[R-Code in HTML format](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
+
 The primary model work was performed in Python as FinalProject.ipynb.  
 
     Model selection for the regression model was performed in Pycaret_Reg.ipynb.
