@@ -13,5 +13,5 @@ This is my final project on SBA Loan Data for DSC 630. It provides for 2 predict
 
 [Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb)
 
-[Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat_Tuning.ipynb)
+[Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/PyCaret_Cat_Tuning.ipynb)
 
