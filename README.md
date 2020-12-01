@@ -1,7 +1,7 @@
 # DSC630 SBA Loan Data Set
 This is my final project on SBA Loan Data for DSC 630. It provides for 2 predictive analytics models. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
 
-[Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.docx)
+[Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf)
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
