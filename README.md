@@ -7,11 +7,11 @@ This is my final project on SBA Loan Data for DSC 630. It provides for 2 predict
 
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
 
-[Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb).
+[Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
-[Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb).
+[Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb)
 
-[Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb).
+[Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb)
 
-[Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat_Tuning.ipynb).
+[Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat_Tuning.ipynb)
 
