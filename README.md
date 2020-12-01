@@ -10,7 +10,7 @@ For convenience this has been converted to html and pdf file format.
 
 The primary model work was performed in Python as FinalProject.ipynb.  
 
-    Model selection for the regression model was performed in Pycaret_Reg.ipynb.
+    Model selection for the regression model was performed in [Pycaret_Reg.ipynb](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb).
     Model selection for the classification model wasa performed in Pycaret_Cat.ipynb.
 
     Parameter selection for the regression model was performed in Pycaret_Reg_Tuning.ipynb.
