@@ -2,6 +2,8 @@
 
 <img src="images/loan.jpg" width ="500">
 
+## Description
+
 This is my project on SBA Loan Data. It provides for two predictive analytics models. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
 
 ## Executive Summary
