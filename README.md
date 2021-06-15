@@ -18,7 +18,11 @@ The final report on predictive analytics for the Small Business Administration d
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
+Exploratory Data Analysis performed in R.
+
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
+
+Primary code supported by model selecction and tuning below.
 
 [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
