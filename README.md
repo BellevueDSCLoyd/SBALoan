@@ -22,11 +22,11 @@ The primary [code](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProj
 
 The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
-  [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
+* [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
-  [Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb)
+* [Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb)
 
-  [Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb)
+* [Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb)
 
-  [Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/PyCaret_Cat_Tuning.ipynb)
+* [Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/PyCaret_Cat_Tuning.ipynb)
 
