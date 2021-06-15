@@ -16,7 +16,7 @@ The final [report](docs/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz3
 
 ## Code
 
-The [Exploratory Data Analysis](https://bellevuedscloyd.github.io/SBALoan/eda/630Project.html) was performed in R.
+The [Exploratory Data Analysis](https://bellevuedscloyd.github.io/SBALoan/eda/630Project.html) was performed in R and can be downloaed from [here](eda/630Project.R).
 
 The primary [code](FinalProject.ipynb) in Python using Jupyter Notebook.
 
