@@ -8,7 +8,7 @@ This is my project on SBA Loan Data. It provides for two predictive analytics mo
 
 [Video](https://youtu.be/G62wqCy5P1Y)
 
-This video was completed a few weeks before the end of the project.
+This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the end of the project.
 
 ## [Final Report Video](https://youtu.be/6TPM5XNQz30)
 
