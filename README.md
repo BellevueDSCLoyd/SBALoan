@@ -8,7 +8,7 @@ This is my project on SBA Loan Data. It provides for two predictive analytics mo
 
 This video was completed a few weeks before the end of the project.
 
-[Final Report Video](https://youtu.be/6TPM5XNQz30)
+## [Final Report Video](https://youtu.be/6TPM5XNQz30)
 
 The final report on predictive analytics for the Small Business Administration data set.
 
