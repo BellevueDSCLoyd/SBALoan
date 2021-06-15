@@ -20,9 +20,11 @@ The Exploratory Data Analysis was performed in R.
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
-The primary code and supporting model selection and tuning code is provided here in python using Jupyter notebook.
+The primary code in Python using Jupyter Notebook.
 
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
+
+The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook.
 
 [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
