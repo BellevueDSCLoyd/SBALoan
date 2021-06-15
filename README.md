@@ -4,7 +4,9 @@
 
 This is my project on SBA Loan Data. It provides for two predictive analytics models. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
 
-## [Executive Summary Video](https://youtu.be/G62wqCy5P1Y)
+## Executive Summary
+
+[Video](https://youtu.be/G62wqCy5P1Y)
 
 This video was completed a few weeks before the end of the project.
 
