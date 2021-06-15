@@ -6,6 +6,8 @@ This is my project on SBA Loan Data. It provides for two predictive analytics mo
 
 [Executive Summary Video](https://youtu.be/G62wqCy5P1Y)
 
+[Final Report Vidoe](https://youtu.be/6TPM5XNQz30)
+
 [Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf)
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
