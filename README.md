@@ -4,7 +4,7 @@
 
 ## Description
 
-This is my project on SBA Loan Data. It provides for two predictive analytics models. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
+This is my project on SBA Loan Data. It provides for two predictive analytics models created following CRISP-DM methodology. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
 
 ## Executive Summary
 
