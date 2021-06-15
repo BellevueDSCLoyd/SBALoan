@@ -16,15 +16,11 @@ The final [report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalRepo
 
 ## Code
 
-The Exploratory Data Analysis was performed in R.
+The [Exploratory Data Analysis](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html) was performed in R.
 
-[EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
+The primary [code](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb) in Python using Jupyter Notebook.
 
-The primary code in Python using Jupyter Notebook.
-
-[Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
-
-The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook.
+The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
 [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
