@@ -1,4 +1,4 @@
-SBA Loan Data Set
+# Small Business Administration (SBA) Loan Data Set
 
 <img src="images/loan.jpg" width ="500">
 
