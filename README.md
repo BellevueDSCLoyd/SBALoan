@@ -14,6 +14,8 @@ The final report on predictive analytics for the Small Business Administration d
 
 [Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf)
 
+## Code
+
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
