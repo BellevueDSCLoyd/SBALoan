@@ -14,7 +14,7 @@ This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the 
 
 The final [report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz30) on predictive analytics for the Small Business Administration data set.
 
-## 
+## Code
 
 The Exploratory Data Analysis was performed in R.
 
