@@ -10,6 +10,8 @@ This video was completed a few weeks before the end of the project.
 
 [Final Report Video](https://youtu.be/6TPM5XNQz30)
 
+The final report on predictive analytics for the Small Business Administration data set.
+
 [Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf)
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
