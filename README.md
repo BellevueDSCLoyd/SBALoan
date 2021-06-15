@@ -12,21 +12,21 @@ This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the 
 
 ## Final Report
 
-The final [report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz30) on predictive analytics for the Small Business Administration data set.
+The final [report](docs/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz30) on predictive analytics for the Small Business Administration data set.
 
 ## Code
 
 The [Exploratory Data Analysis](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html) was performed in R.
 
-The primary [code](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb) in Python using Jupyter Notebook.
+The primary [code](FinalProject.ipynb) in Python using Jupyter Notebook.
 
 The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
-* [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
+* [Regressesion Model Selection](supplemental_code/Pycaret_Reg.ipynb)
 
-* [Classification Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Cat.ipynb)
+* [Classification Model Selection](supplemental_code/Pycaret_Cat.ipynb)
 
-* [Regressesion Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg_Tuning.ipynb)
+* [Regressesion Model Tuning](supplemental_code/Pycaret_Reg_Tuning.ipynb)
 
-* [Classification Model Tuning](https://github.com/BellevueDSCLoyd/DSC630/blob/main/PyCaret_Cat_Tuning.ipynb)
+* [Classification Model Tuning](supplemental_code/PyCaret_Cat_Tuning.ipynb)
 
