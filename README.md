@@ -12,15 +12,15 @@ This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the 
 
 The final [report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz30) on predictive analytics for the Small Business Administration data set.
 
-## Code
+## 
+
+The Exploratory Data Analysis was performed in R.
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
 
-Exploratory Data Analysis performed in R.
+The primary code and supporting model selection and tuning code is provided here in python using Jupyter notebook.
 
 [Primary Modeling in Python](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalProject.ipynb)
-
-Primary code supported by model selecction and tuning below.
 
 [Regressesion Model Selection](https://github.com/BellevueDSCLoyd/DSC630/blob/main/Pycaret_Reg.ipynb)
 
