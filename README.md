@@ -4,6 +4,8 @@ SBA Loan Data Set
 
 This is my project on SBA Loan Data. It provides for two predictive analytics models. One predicts loan repayment with a classification model and the other predicts job creation as a regression model.
 
+[Executive Summary Video](https://youtu.be/G62wqCy5P1Y)
+
 [Technical Report](https://github.com/BellevueDSCLoyd/DSC630/blob/main/FinalReport.pdf)
 
 [EDA in R](https://htmlpreview.github.io/?https://github.com/BellevueDSCLoyd/DSC630/blob/main/630Project.html)
