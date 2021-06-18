@@ -30,3 +30,10 @@ The supporting code for model selection and parameter tuning also in Python usin
 
 * [Classification Model Tuning](supplemental_code/PyCaret_Cat_Tuning.ipynb)
 
+## Tools
+
+* R
+* R Studio
+* Python
+* PyCaret
+
