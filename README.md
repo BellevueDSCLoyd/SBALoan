@@ -36,4 +36,5 @@ The supporting code for model selection and parameter tuning also in Python usin
 * R Studio
 * Python
 * PyCaret
+* Jupyter Notebook
 
