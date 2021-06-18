@@ -18,7 +18,7 @@ The final [report](docs/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz3
 
 The [Exploratory Data Analysis](https://sdloyd.github.io/SBALoan/eda/630Project.html) was performed in R and can be downloaded from [here](eda/630Project.R).
 
-The primary [code](FinalProject.ipynb) in Python using Jupyter Notebook.
+The primary [code](code/FinalProject.ipynb) in Python using Jupyter Notebook.
 
 The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
