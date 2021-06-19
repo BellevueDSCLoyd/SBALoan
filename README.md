@@ -25,7 +25,7 @@ If you have trouble with GitHub rendering the file, please try [here](https://nb
 The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
 * [Regressesion Model Selection](supplemental_code/Pycaret_Reg.ipynb)  
-* * [nbviewer](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/supplemental_code/Pycaret_Reg.ipynb)
+  * [nbviewer](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/supplemental_code/Pycaret_Reg.ipynb)
 
 * [Classification Model Selection](supplemental_code/Pycaret_Cat.ipynb) - [nbviewer](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/supplemental_code/Pycaret_Cat.ipynb)
 
