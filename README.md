@@ -20,7 +20,7 @@ The [Exploratory Data Analysis](https://sdloyd.github.io/SBALoan/eda/630Project.
 
 The primary [code](code/FinalProject.ipynb) in Python using Jupyter Notebook.
 
-If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/code/FinalProject.ipynb
+If you have trouble with GitHub rendering the file, please try [here](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/code/FinalProject.ipynb).
 
 The supporting code for model selection and parameter tuning also in Python using Jupyter Notebook:
 
