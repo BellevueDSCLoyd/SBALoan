@@ -8,7 +8,7 @@ This is my project on SBA Loan Data. It provides for two predictive analytics mo
 
 ## Data
 
-The dataset can be found [here](https://www.kaggle.com/larsen0966/sba-loans-case-data-set) on Kaggle.
+[Kaggle Data Set](https://www.kaggle.com/larsen0966/sba-loans-case-data-set)
 
 ## Executive Summary
 
