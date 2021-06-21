@@ -40,6 +40,12 @@ The supporting code for model selection and parameter tuning also in Python usin
 * [Classification Model Tuning](supplemental_code/PyCaret_Cat_Tuning.ipynb)  
   * [Notebook Viewer](https://nbviewer.jupyter.org/github/SDLoyd/SBALoan/blob/main/supplemental_code/PyCaret_Cat_Tuning.ipynb)
 
+## Instructions
+
+To run this notebook locally, install Jupyter, download the data set, change the file location to load the data, and install all the library dependencies.
+
+The R code is best run from RStudio.  
+
 ## Tools
 
 * R
