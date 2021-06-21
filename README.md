@@ -6,6 +6,10 @@
 
 This is my project on SBA Loan Data. It provides for two predictive analytics models created following CRISP-DM methodology. One predicts loan repayment with a classification model and the other predicts job creation as a regression model. This was my first project using PyCaret for model selection and parameter tuning.
 
+## Data
+
+The dataset can be found [here](https://www.kaggle.com/larsen0966/sba-loans-case-data-set) on Kaggle.
+
 ## Executive Summary
 
 This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the end of the project.
