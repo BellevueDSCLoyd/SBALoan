@@ -46,6 +46,8 @@ To run this notebook locally, install Jupyter, download the data set, change the
 
 The R code is best run from RStudio. You will also need to download the code and data.
 
+[Anaconda](https://www.anaconda.com/) can be used for both.
+
 ## Tools
 
 * R
