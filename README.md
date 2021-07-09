@@ -18,6 +18,10 @@ This [video](https://youtu.be/G62wqCy5P1Y) was completed a few weeks before the 
 
 The final [report](docs/FinalReport.pdf) and [video](https://youtu.be/6TPM5XNQz30) on predictive analytics for the Small Business Administration data set.
 
+## EDA 
+
+A pandas-profiling [report](https://sdloyd.github.io/SBALoan/pandasprofile/sba-pandas-profile-report.html) is available.
+
 ## Code
 
 The [Exploratory Data Analysis](https://sdloyd.github.io/SBALoan/eda/630Project.html) was performed in R and can be downloaded from [here](eda/630Project.R).
@@ -55,4 +59,8 @@ The R code is best run from RStudio. You will also need to download the code and
 * Python
 * PyCaret
 * Jupyter Notebook
+
+## Credits
+
+_Money [image](https://www.pexels.com/photo/person-holding-100-us-dollar-banknotes-2068975) by Alexander Mils at [Pexels](https://www.pexels.com/)_
 
